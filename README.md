@@ -48,19 +48,19 @@
 
 ## 🌟 Featured Projects  
 
-### 🧾 [Document Q&A Chatbot](https://github.com/anujk13)
+### 🧾 [Document Q&A Chatbot](https://github.com/anujk13/Document-Q-A-Chatbot-)
 > 📚 Uses **LangChain**, **LlamaIndex**, and **Hugging Face** to answer document-based queries with AI context understanding.  
 > 🧠 *RAG-powered conversational assistant.*  
 
 ---
 
-### ⚙️ [ML-Based Cache Replacement](https://github.com/anujk13)
+### ⚙️ [ML-Based Cache Replacement](https://github.com/anujk13/ML-Based-Cache-Replacement)
 > 🚀 **Machine-learning–driven cache optimization** that improves memory efficiency and reduces page faults.  
 > 💻 *Achieved 15% higher cache hit ratio with predictive modeling.*  
 
 ---
 
-### 🤝 [SkillSync – Smart Team & Project Buddy Finder](https://github.com/anujk13)
+### 🤝 [SkillSync – Smart Team & Project Buddy Finder](https://github.com/anujk13/Skill-Sync-Hub)
 > 🔗 Connects students based on **skills, domains, and goals** to form balanced project teams.  
 > 💻 *Built using React, TypeScript, TailwindCSS, and Supabase.*  
 
